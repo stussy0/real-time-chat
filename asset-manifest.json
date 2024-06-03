@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/real-time-chat/static/js/main.1e25ac2e.js",
+    "static/js/787.71df535f.chunk.js": "/real-time-chat/static/js/787.71df535f.chunk.js",
+    "index.html": "/real-time-chat/index.html",
+    "main.1e25ac2e.js.map": "/real-time-chat/static/js/main.1e25ac2e.js.map",
+    "787.71df535f.chunk.js.map": "/real-time-chat/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e25ac2e.js"
+  ]
+}
